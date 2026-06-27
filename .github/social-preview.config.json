@@ -1,0 +1,12 @@
+{
+  "title": "Social Preview Generator",
+  "subtitle": "Automated OG Image Generation for GitHub Repos",
+  "emoji": "🖼️",
+  "accent": "#E74C3C",
+  "tags": [
+    "github-actions",
+    "og-image",
+    "svg",
+    "resvg"
+  ]
+}
