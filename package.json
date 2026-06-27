@@ -1,0 +1,8 @@
+{
+  "name": "social-preview-generator",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.0"
+  }
+}

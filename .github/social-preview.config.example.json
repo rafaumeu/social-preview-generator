@@ -1,0 +1,9 @@
+{
+  "title": "Repo Name",
+  "subtitle": "Short description of the project",
+  "accent": "#6C5CE7",
+  "darkMode": true,
+  "emoji": "⚡",
+  "author": "Rafael Zendron",
+  "tags": ["typescript", "nextjs"]
+}
